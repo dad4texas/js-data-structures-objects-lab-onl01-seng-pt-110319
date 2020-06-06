@@ -30,4 +30,4 @@ function destructivelyDeleteFromDriverByKey(driver, key) {
 
   return driver;
 }
-© 2020 GitHub, Inc.
+
